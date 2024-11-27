@@ -1,2 +1,2 @@
-# FRED
-This is an analysis of FRED Economic using Power BI to visualize data and Python to pull the api data
+# Financial_Analysis
+This is an analysis of a sample Financial Data using Power BI to visualize data
